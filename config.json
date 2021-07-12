@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri":"mysql://root:@localhost/sanidhyapaneri",
+    "prod_uri":"mysql://root:@localhost/sanidhyapaneri",
+    "fb_url": "https://www.facebook.com/sanidhya.paneri/",
+    "tw_url": "https://www.twitter.com/sanidhya_paneri",
+    "git_url": "https://www.github.com",
+    "user": "panerishanu@gmail.com",
+    "password": "Sa@nidhya95",
+    "about_me": "Hi i,m sanidhya paneri a student of MCA. And im learning python module Flask for backend web development",
+    "noofpost": 2,
+    "admin_icon": "login.png",
+    "blog_name": "Sanidhya Paneri",
+    "admin_user": "sanidhya",
+    "admin_pass": "sanidhya",
+    "upload_location": "C:\\Users\\hp\\PycharmProjects\\Flask\\static"
+  }
+
+}
